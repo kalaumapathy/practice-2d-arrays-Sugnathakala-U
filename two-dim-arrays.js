@@ -17,6 +17,6 @@ let theaterSeating = [
 
 // Challenge 3: Multi-Dimensional Contact List
 let contactsList = [
-  ["Alice Johnson", "alice@email.com", "555-123-4567"],
-  ["Bob Smith", "bob@email.com", "555-987-6543"]
+  ["Kala Umapathy", "kumapathy@email.com", "555-123-4567"],
+  ["Naveen Umapathy", "numapathy@email.com", "555-987-6543"]
 ];
