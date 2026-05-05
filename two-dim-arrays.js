@@ -6,6 +6,9 @@ let allScores = [
   [91, 94, 89]
 ];
 
+console.log("Student Scores:");
+console.log(allScores);
+
 // Challenge 2: Theater Seating Grid
 
 let theaterSeating = [
@@ -13,10 +16,13 @@ let theaterSeating = [
   ["B1", "B2", "B3", "B4"],
   ["C1", "C2", "C3", "C4"]
 ];
-
+console.log("Theater Seating:");
+console.log(theaterSeating);
 
 // Challenge 3: Multi-Dimensional Contact List
 let contactsList = [
   ["Kala Umapathy", "kumapathy@email.com", "555-123-4567"],
   ["Naveen Umapathy", "numapathy@email.com", "555-987-6543"]
 ];
+console.log("Contacts List:");
+console.log(contactsList);
